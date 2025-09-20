@@ -1,0 +1,133 @@
+body {
+    background-color: #121212; /* Sötét háttér */
+    color: white; /* Fehér szöveg */
+}
+
+.navbar, .menu {
+    background-color: #333333; /* Sötétebb szürke navigáció */
+}
+
+.btn-primary, .btn-success {
+    border-radius: 20px; /* Lekerekített gombok */
+}
+
+.car-card {
+    background-color: #1E1E1E; /* Kártyák háttérszíne */
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#margin{
+    padding-left: 30px;
+}
+
+.car-details-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.car-image {
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.car-details {
+    max-width: 500px;
+    background-color: #1e1e1e;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.car-details h1 {
+    font-size: 2.5rem;
+}
+
+.car-price {
+    font-size: 2rem;
+    font-weight: bold;
+    color: gold;
+}
+
+.btn-custom {
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 20px;
+}
+
+nav.navbar {
+    width: 100%;
+    background-color: #121212; /* A navbar sötét háttere */
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 5rem auto;
+    padding: 2rem;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    color: white;
+}
+
+label {
+    text-align: left;
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+input[type="email"], input[type="password"], input[type="text"] {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+}
+
+.btn-login {
+    background-color: #ffc107;
+    border: none;
+    color: #121212;
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.login-body {
+    color: #121212;
+}
+
+.userLink{
+    color: white;
+    font-weight: bold;
+    
+}
+
+.welcome-text {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#user_dashb_name{
+    color: #ffc107;
+}
+
+#foglalasim{
+    margin-left: auto;
+}

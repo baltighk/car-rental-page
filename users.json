@@ -1,0 +1,32 @@
+[
+    {
+        "name": "K\u00f6r\u00f6sk\u00e9nyi Istv\u00e1n",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "admin": true
+    },
+    {
+        "name": "Stu Norbert",
+        "email": "user@ikarrental.hu",
+        "password": "user",
+        "admin": false
+    },
+    {
+        "name": "Krist\u00f3f Baltigh",
+        "email": "baltighk2@gmail.com",
+        "password": "$2y$10$oqfNGJNwjYnhkNwyAEGupe3Rr4i5u.ZEINRT\/oJ4rBOpyHu\/2YZ1i",
+        "admin": true
+    },
+    {
+        "name": "Krist\u00f3f Baltigh",
+        "email": "baltighk@gmail.com",
+        "password": "$2y$10$Ho9tJCp2XM6tthewKyJiyOPi4duW0wMur8jh9l6vi8ZA1MGObsM5.",
+        "admin": false
+    },
+    {
+        "name": "Admin Lajos",
+        "email": "a@a.com",
+        "password": "$2y$10$X2b726oDHRLXs0Bp5P9Pp.5CCQIWhQbOInjXU9sUfv.GDR6\/GLz0y",
+        "admin": true
+    }
+]
